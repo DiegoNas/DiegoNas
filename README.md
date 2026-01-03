@@ -1,4 +1,4 @@
-# 👋 Diego Nas
+# 👋 Diego Nascimento
 
 Analista de Dados Sênior com cerca de 5 anos de experiência,
 atuando na construção de pipelines de dados, arquitetura Lakehouse
